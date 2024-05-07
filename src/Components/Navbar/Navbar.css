@@ -1,0 +1,7 @@
+
+
+@media(max-width: 991.5px){
+    .navLinks{
+        display: none !important;
+    }
+}
